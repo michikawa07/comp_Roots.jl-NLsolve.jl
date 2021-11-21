@@ -1,0 +1,4 @@
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
